@@ -1,0 +1,2015 @@
+19822:Science
+23448:Raduga
+26372:Gorizont
+37739:GlobalStar
+43279:null
+19397:Gorizont
+43272:Geostationary
+43271:Geostationary
+43277:null
+43276:null
+43275:null
+24713:SES
+40147:Geostationary
+43181:null
+43180:null
+43183:Spire
+43182:Spire
+43185:Spire
+43184:Spire
+43187:null
+43186:null
+43189:null
+43188:Experimental Communication
+27370:Science
+27372:Iridium
+27373:Iridium
+23842:SES
+27375:Iridium
+43477:null
+43476:null
+43479:Iridium-NEXT
+43478:Iridium-NEXT
+32789:Amateur
+32788:Cube Satellites
+32783:Earth Resource
+32785:Amateur
+25286:Iridium
+25287:Iridium
+16497:Raduga
+25285:Iridium
+16250:Raduga
+25118:Orbcom
+25119:Orbcom
+25116:Orbcom
+25117:Orbcom
+25114:Orbcom
+41834:null
+25112:Orbcom
+25113:Orbcom
+42050:Planet
+42051:Planet
+42059:null
+43693:null
+43053:Spire
+43052:Cube Satellites
+43051:Spire
+43050:Cube Satellites
+43057:Galileo
+43056:Galileo
+43055:Galileo
+43054:Spire
+43058:Galileo
+42907:Geostationary
+42903:Cube Satellites
+42901:null
+22907:Gorizont
+41908:null
+41903:Geostationary
+41901:null
+41900:null
+41907:null
+37838:Earth Resource
+41904:Geostationary
+21922:Gorizont
+41340:Cube Satellites
+40988:null
+42838:Spire
+42839:Spire
+22871:Intelsat
+40982:Geostationary
+42831:Education
+37793:Engineering
+37792:Engineering
+37791:Earth Resource
+37790:null
+41238:Geostationary
+41169:Earth Resource
+41168:Cube Satellites
+41167:Earth Resource
+41166:null
+39741:GPS Navigation
+41589:SBAS
+41588:Geostationary
+41586:Beidou
+41581:Intelsat
+41765:null
+40364:SES
+40367:Geostationary
+40360:Science
+40362:Earth Resource
+37179:null
+37951:SBAS
+37776:Geostationary
+40960:null
+40961:null
+40748:Beidou
+40749:Beidou
+37779:Geostationary
+31698:Earth Resource
+25852:GlobalStar
+31127:Experimental Communication
+31124:Experimental Communication
+31125:Experimental Communication
+23051:GOES
+31121:Experimental Communication
+39358:null
+27612:null
+26719:Geostationary
+28361:GPS Navigation
+28366:Experimental Communication
+28364:Geostationary
+28369:Experimental Communication
+29108:Science
+29107:Science
+33053:Science
+23613:Geostationary
+26624:Geostationary
+28187:Geostationary
+28184:Geostationary
+25949:Geostationary
+38358:Science
+40146:Geostationary
+35931:Earth Resource
+35933:Amateur
+35932:Amateur
+35935:Amateur
+25944:GlobalStar
+38354:null
+25946:GlobalStar
+23846:Geostationary
+36413:null
+43260:null
+43262:null
+26360:GPS Navigation
+42885:Planet
+22671:Molniya
+12351:Raduga
+27376:Iridium
+27378:Geostationary
+33751:Military
+36415:null
+36414:null
+39177:null
+43192:null
+43196:Cube Satellites
+43197:Cube Satellites
+43194:Science
+43195:Earth Resource
+43199:null
+32794:Geostationary
+43463:Geostationary
+43461:null
+27389:Geostationary
+32791:Amateur
+43468:null
+27380:Intelsat
+39008:Geostationary
+26494:SES
+26495:SES
+14532:Gorizont
+21118:Molniya
+32060:Earth Resource
+28702:Intelsat
+42021:Planet
+42020:Planet
+42023:Planet
+42022:Planet
+42025:Planet
+42024:Planet
+42027:Planet
+43689:Weather
+42029:Planet
+42028:Planet
+12003:Raduga
+43680:Cube Satellites
+16393:Molniya
+43048:Spire
+43049:Cube Satellites
+43518:null
+43519:null
+43044:Cube Satellites
+43045:Spire
+43046:Spire
+43047:Spire
+43041:Spire
+43042:Cube Satellites
+43043:Cube Satellites
+25527:Iridium
+42939:GLONASS Navigation
+40894:null
+42934:Geostationary
+41914:null
+25544:null
+41917:Iridium-NEXT
+41911:Geostationary
+41913:null
+41918:Iridium-NEXT
+41919:Iridium-NEXT
+29268:Earth Resource
+26038:Intelsat
+26034:Other
+42807:Iridium-NEXT
+42806:Iridium-NEXT
+42805:Iridium-NEXT
+42804:Iridium-NEXT
+42803:Iridium-NEXT
+42801:Geostationary
+36499:Geostationary
+10159:Raduga
+20083:Raduga
+33446:Disaster Monitoring
+42809:Iridium-NEXT
+42808:Iridium-NEXT
+37789:null
+37781:Earth Resource
+25867:Science
+36831:Geostationary
+36830:Geostationary
+26936:Raduga
+36834:Earth Resource
+41179:Orbcom
+41173:Science
+41170:Cube Satellites
+41171:Cube Satellites
+09829:Molniya
+41174:Galileo
+41175:Galileo
+40880:Geostationary
+40882:Geostationary
+41836:Geostationary
+40889:Galileo
+32019:Geostationary
+34941:SES
+39773:Geostationary
+25115:Orbcom
+41599:Earth Resource
+41591:Geostationary
+41592:Geostationary
+41770:null
+41771:Planet
+41772:Planet
+41773:Planet
+41774:Planet
+40310:Earth Resource
+40315:GLONASS Navigation
+40089:Orbcom
+40088:Orbcom
+27811:Geostationary
+26818:Russian LEO
+40081:Other Communication
+40080:Other Communication
+40082:Other Communication
+27818:Russian LEO
+40087:Orbcom
+41579:null
+38749:Intelsat
+37165:null
+37166:null
+37167:null
+38745:null
+38744:null
+38741:Geostationary
+38740:Intelsat
+37941:Earth Resource
+37763:Beidou
+40959:null
+40555:null
+31118:Education
+40553:null
+40552:null
+31113:Earth Resource
+43690:null
+27603:SES
+27606:null
+27607:Education
+31598:Earth Resource
+26702:Science
+28420:null
+11440:Gorizont
+02909:Radar
+26390:Intelsat
+25910:GlobalStar
+31574:GlobalStar
+31576:GlobalStar
+31571:GlobalStar
+31573:GlobalStar
+40420:null
+40425:Geostationary
+40424:Geostationary
+43111:Earth Resource
+15057:Raduga
+26638:SES
+26639:SES
+29601:GPS Navigation
+28220:Earth Resource
+25954:SES
+43215:null
+43217:Other Communication
+43216:Other Communication
+40090:Orbcom
+26559:Geostationary
+26554:SES
+28644:Intelsat
+39163:Geostationary
+39160:Earth Resource
+39161:Cube Satellites
+28649:Earth Resource
+07392:Molniya
+25042:Iridium
+25043:Iridium
+13669:Raduga
+27399:Geostationary
+10987:Raduga
+07530:Amateur
+39017:Geostationary
+32253:Intelsat
+32252:Geostationary
+39012:null
+39013:null
+39011:null
+39019:Earth Resource
+38752:Science
+24957:SES
+24950:Iridium
+38753:Science
+25420:Orbcom
+41915:null
+42032:Planet
+42033:Planet
+42030:Planet
+42031:Planet
+42036:Planet
+42037:Planet
+42034:Planet
+42035:Planet
+42038:Planet
+42039:Planet
+43039:Geostationary
+43529:null
+43030:null
+43032:null
+43034:null
+41961:Planet
+41960:Planet
+21639:Geostationary
+41962:Planet
+41965:Planet
+41964:Planet
+41967:Planet
+41966:Planet
+41969:Planet
+41968:Planet
+40946:Geostationary
+43144:null
+43146:null
+43141:null
+43140:null
+43143:null
+43142:null
+42810:Iridium-NEXT
+42811:Iridium-NEXT
+42812:Iridium-NEXT
+42814:Geostationary
+42815:Geostationary
+42818:Intelsat
+21706:Molniya
+20659:Gorizont
+15936:NNSS
+33051:Geostationary
+16908:Geodetic
+33055:Geostationary
+33056:Geostationary
+36792:Geostationary
+42920:Earth Resource
+36795:Earth Resource
+36797:Experimental Communication
+36798:null
+36799:Cube Satellites
+36828:Beidou
+26959:Engineering
+26958:Engineering
+40892:Geostationary
+40890:Galileo
+29349:Geostationary
+40895:Geostationary
+13070:Molniya
+37372:GLONASS Navigation
+39768:null
+39769:null
+18946:Molniya
+39766:Earth Resource
+39767:null
+39761:null
+39762:null
+39763:null
+11964:GOES
+33453:SES
+43609:null
+33459:Geostationary
+37384:Beidou
+41789:Amateur
+41788:Cube Satellites
+41785:Earth Resource
+41784:Education
+41787:Earth Resource
+41786:null
+40305:Earth Resource
+41549:Galileo
+40091:Orbcom
+26824:Intelsat
+39127:Geostationary
+38755:Earth Resource
+37191:GlobalStar
+37190:GlobalStar
+37193:GlobalStar
+37192:GlobalStar
+37753:GPS Navigation
+37207:Geostationary
+40940:Geostationary
+40941:Geostationary
+40544:Galileo
+40545:Galileo
+15935:NNSS
+40547:Geostationary
+40549:Beidou
+02807:NNSS
+18361:NNSS
+18362:NNSS
+39375:Raduga
+39574:Earth Resource
+25894:Geostationary
+22877:GPS Navigation
+40301:Earth Resource
+27704:GPS Navigation
+25964:GlobalStar
+25963:GlobalStar
+25962:GlobalStar
+25961:GlobalStar
+40984:Geostationary
+26608:Intelsat
+28238:Intelsat
+43510:null
+42837:Spire
+19928:Raduga
+31102:Geostationary
+39481:Geostationary
+39483:null
+42835:null
+39485:null
+39484:null
+39487:Geostationary
+32487:Geostationary
+25163:GlobalStar
+25162:GlobalStar
+43207:Beidou
+43204:Earth Resource
+43208:Beidou
+39157:Geostationary
+39155:GLONASS Navigation
+39151:Cube Satellites
+39150:Earth Resource
+12458:NNSS
+39159:Engineering
+28654:ARGOS
+35865:Weather
+35686:Engineering
+35685:null
+35684:Engineering
+35683:Disaster Monitoring
+35682:Earth Resource
+35681:Disaster Monitoring
+28659:Intelsat
+29670:GLONASS Navigation
+27403:Intelsat
+43440:null
+43441:null
+43442:null
+43443:null
+39022:Geostationary
+39020:Geostationary
+25639:Geostationary
+19765:Gorizont
+25635:Science
+38014:Geostationary
+25630:Geostationary
+25417:Orbcom
+25416:Orbcom
+25415:Orbcom
+25414:Orbcom
+25413:Orbcom
+24948:Iridium
+13624:Gorizont
+24946:Iridium
+24944:Iridium
+24945:Iridium
+25419:Orbcom
+25418:Orbcom
+38991:Geostationary
+38992:Geostationary
+42798:null
+38998:null
+38999:null
+42795:null
+42794:Cube Satellites
+42793:Cube Satellites
+42792:Cube Satellites
+42790:Cube Satellites
+43537:null
+43530:null
+42009:Planet
+42008:Planet
+42007:Planet
+42006:Planet
+42005:Planet
+42004:Planet
+42003:Planet
+42002:Planet
+42001:Planet
+42000:Cube Satellites
+43028:null
+43029:null
+43022:null
+43023:null
+43020:null
+43021:null
+43027:null
+43024:null
+41972:Planet
+41973:Planet
+41970:Planet
+41971:Planet
+41976:Planet
+41977:Planet
+41974:Planet
+41975:Planet
+41978:Planet
+41979:Planet
+43156:null
+43157:null
+43155:null
+43152:null
+26871:GOES
+43158:null
+43159:null
+22826:Amateur
+22824:Geodetic
+26605:GPS Navigation
+21132:Raduga
+42775:Cube Satellites
+42774:Spire
+42777:Cube Satellites
+42776:Cube Satellites
+42955:Iridium-NEXT
+42954:null
+42957:Iridium-NEXT
+42956:Iridium-NEXT
+42959:Iridium-NEXT
+42958:Iridium-NEXT
+42779:Spire
+42778:Amateur
+36585:GPS Navigation
+36581:SES
+20442:Amateur
+36582:Geostationary
+25945:GlobalStar
+36101:Geostationary
+36106:Intelsat
+41794:Geostationary
+41793:Geostationary
+41790:Earth Resource
+27831:Geostationary
+41558:Earth Resource
+41554:GLONASS Navigation
+19223:NNSS
+41556:Earth Resource
+41557:Amateur
+41550:Galileo
+41552:Geostationary
+41191:Geostationary
+39624:null
+39620:GLONASS Navigation
+37188:GlobalStar
+37189:GlobalStar
+37185:Intelsat
+37180:null
+40938:Beidou
+37748:SES
+37749:Geostationary
+37218:Geostationary
+37744:GlobalStar
+40930:Science
+37214:Weather
+40932:Spire
+37740:GlobalStar
+37741:GlobalStar
+37742:GlobalStar
+37743:GlobalStar
+30774:null
+30776:Engineering
+30777:Military
+25884:GlobalStar
+25885:GlobalStar
+25886:GlobalStar
+25883:GlobalStar
+39360:Intelsat
+39363:Earth Resource
+25504:Earth Resource
+40336:Earth Resource
+40333:Geostationary
+40332:Geostationary
+40339:null
+40338:null
+27715:Intelsat
+27718:Geostationary
+39498:Geostationary
+39492:null
+28089:Geostationary
+32478:Geostationary
+11343:Raduga
+43236:null
+43234:Other Communication
+43233:Other Communication
+43232:Other Communication
+43231:Other Communication
+27004:Earth Resource
+39380:Engineering
+11708:Raduga
+28885:Geostationary
+28884:SBAS
+35696:Geostationary
+35873:Geostationary
+28868:SBAS
+23802:Science
+24842:Iridium
+24841:Iridium
+39034:Geostationary
+25621:GlobalStar
+25622:GlobalStar
+25623:GlobalStar
+39030:Earth Resource
+43493:null
+25153:Geostationary
+43491:Geostationary
+31800:Geostationary
+32050:Geostationary
+17611:Raduga
+25158:Orbcom
+25159:Orbcom
+32729:Intelsat
+42788:Cube Satellites
+42789:Cube Satellites
+32293:Geostationary
+25397:Amateur
+42780:Spire
+42781:Spire
+42782:Spire
+42783:Other Communication
+42784:Cube Satellites
+42785:Other Communication
+42786:Other Communication
+42787:Cube Satellites
+42018:Planet
+42019:Planet
+43015:Cube Satellites
+43014:null
+43013:Weather
+43547:null
+43546:null
+43549:null
+42011:Planet
+42012:Planet
+42013:Planet
+42014:Planet
+42015:Cube Satellites
+42016:Cube Satellites
+42017:Amateur
+19807:Molniya
+41949:null
+41948:Earth Resource
+41945:Intelsat
+41944:Geostationary
+41942:Geostationary
+01520:Radar
+28154:SES
+43163:Planet
+43160:null
+43167:Spire
+43165:Spire
+43169:null
+27954:Intelsat
+22836:Raduga
+37775:SES
+42766:null
+41898:null
+42765:Cube Satellites
+42946:null
+42947:null
+42760:Earth Resource
+42761:Earth Resource
+41891:Weather
+41890:Weather
+41893:Geostationary
+43005:null
+42768:Cube Satellites
+42769:null
+36596:null
+36592:Geostationary
+18631:Raduga
+36590:Beidou
+13092:Gorizont
+33433:null
+36119:Science
+33436:SES
+33434:null
+36112:GLONASS Navigation
+41308:Intelsat
+36110:Earth Resource
+36111:GLONASS Navigation
+38775:Beidou
+38771:ARGOS
+28521:Russian LEO
+38778:SES
+38779:SBAS
+28526:SES
+39634:Earth Resource
+39635:Geostationary
+17083:Gorizont
+40144:Engineering
+40928:Amateur
+36605:Earth Resource
+40141:Geostationary
+40143:Earth Resource
+40922:null
+37730:null
+40920:null
+40921:null
+40926:Amateur
+37737:Geostationary
+40925:null
+02826:Radar
+15484:Gorizont
+28414:null
+41634:null
+28413:null
+28419:null
+25933:GPS Navigation
+26998:Science
+36745:Geostationary
+41885:Weather
+28380:Russian LEO
+13875:Molniya
+07780:Molniya
+41963:Planet
+28252:SES
+31490:null
+25989:Science
+28254:Earth Resource
+28707:Geostationary
+25985:Orbcom
+25984:Orbcom
+25986:Orbcom
+25981:Orbcom
+25980:Orbcom
+25983:Orbcom
+25982:Orbcom
+23010:Raduga
+43228:Geostationary
+10455:Molniya
+43226:Geostationary
+12472:GOES
+28899:SBAS
+28890:Disaster Monitoring
+28893:Earth Resource
+28895:Amateur
+28874:GPS Navigation
+29236:Intelsat
+23839:Geostationary
+13890:Molniya
+26451:Intelsat
+32260:GPS Navigation
+32263:GlobalStar
+32264:GlobalStar
+32265:GlobalStar
+32266:GlobalStar
+43488:SES
+43484:null
+43485:null
+25165:GlobalStar
+25164:GlobalStar
+43480:Iridium-NEXT
+43481:Iridium-NEXT
+43482:Iridium-NEXT
+25160:Other
+38978:Geostationary
+38977:SBAS
+32289:Earth Resource
+43552:null
+43001:Beidou
+43002:Beidou
+43551:null
+43556:null
+43557:null
+43558:null
+43559:null
+38997:null
+41958:Planet
+41959:Planet
+43017:Amateur
+41950:Planet
+41951:Planet
+41952:Planet
+41953:Planet
+41954:Cube Satellites
+41955:Planet
+41956:Planet
+41957:Planet
+24966:Iridium
+24967:Iridium
+24960:Molniya
+43175:SES
+43170:null
+43171:null
+43172:null
+41315:Beidou
+38551:Geostationary
+38552:Geostationary
+42753:Spire
+42752:Spire
+41888:Weather
+41889:Weather
+42755:Spire
+42754:Spire
+41882:Geostationary
+42759:Earth Resource
+42758:Science
+41886:Weather
+41887:Weather
+41884:Weather
+36744:Geostationary
+43539:Beidou
+42995:Planet
+42997:Planet
+42996:Planet
+42991:Planet
+42990:Planet
+39731:Earth Resource
+42992:Planet
+14050:GOES
+42998:Planet
+36122:Amateur
+36121:null
+33396:Earth Resource
+37933:Geostationary
+41310:Geostationary
+33409:null
+33408:null
+33154:Geostationary
+33153:Intelsat
+26853:SES
+33376:Intelsat
+14940:Gorizont
+33373:Geostationary
+40045:Cube Satellites
+40044:Spire
+40046:Cube Satellites
+40041:Planet
+40040:Planet
+40043:Cube Satellites
+40042:Cube Satellites
+27858:Science
+38707:Earth Resource
+38709:Earth Resource
+38708:null
+27852:Geostationary
+27854:Intelsat
+37234:Geostationary
+37237:Geostationary
+40912:Amateur
+40911:Amateur
+40910:Amateur
+37238:Intelsat
+15362:NNSS
+40137:null
+40136:null
+40269:Geostationary
+40261:null
+15946:Raduga
+40267:Geostationary
+14307:Raduga
+38356:Intelsat
+27450:Iridium
+09880:Molniya
+17969:Gorizont
+26985:Intelsat
+38011:null
+38012:Earth Resource
+23642:Molniya
+38352:Geostationary
+40663:Geostationary
+25943:GlobalStar
+11060:null
+25994:Science
+02872:null
+29648:Geostationary
+25560:Science
+02874:Radar
+29643:Geostationary
+29640:Geostationary
+29644:SES
+07376:Molniya
+41036:Geostationary
+35812:Geostationary
+35498:null
+35496:Geostationary
+35493:Intelsat
+35491:Geostationary
+26469:Geostationary
+26369:Geostationary
+26463:Science
+26464:Science
+41873:Spire
+39058:null
+39059:null
+42709:SES
+22195:Geodetic
+41038:Earth Resource
+39057:null
+16769:Gorizont
+25171:Iridium
+32708:Geostationary
+37804:Geostationary
+22178:Molniya
+25371:Intelsat
+29495:Geostationary
+43569:Iridium-NEXT
+11648:Gorizont
+43567:Galileo
+43566:Galileo
+43565:Galileo
+40617:Geostationary
+43562:Geostationary
+43561:null
+43560:null
+25772:GlobalStar
+25773:GlobalStar
+25770:GlobalStar
+25771:GlobalStar
+25777:Iridium
+43585:null
+43587:Geostationary
+17561:GOES
+43581:Beidou
+43582:Beidou
+43589:Cube Satellites
+15214:Molniya
+36358:Raduga
+42691:Geostationary
+40348:Other Communication
+42695:Geostationary
+42698:Geostationary
+25515:Intelsat
+26084:GlobalStar
+26081:GlobalStar
+26083:GlobalStar
+26082:GlobalStar
+43108:Beidou
+24916:Intelsat
+43100:null
+43107:Beidou
+27939:Amateur
+38833:GPS Navigation
+09416:Raduga
+43615:Cube Satellites
+42969:Earth Resource
+43617:Cube Satellites
+43616:Cube Satellites
+41747:Intelsat
+43613:Earth Resource
+42960:Iridium-NEXT
+42961:Iridium-NEXT
+42962:Iridium-NEXT
+42963:Iridium-NEXT
+42964:Iridium-NEXT
+43618:null
+42967:SES
+20923:Gorizont
+42986:null
+42987:Planet
+42984:Geostationary
+39727:SBAS
+39728:Geostationary
+20107:Gorizont
+42988:Planet
+42989:Planet
+36131:Intelsat
+39172:SES
+25467:Iridium
+41983:Planet
+41982:Planet
+41981:Planet
+41980:Planet
+41987:Planet
+41986:Planet
+41985:Planet
+41328:GPS Navigation
+33412:Earth Resource
+41988:Planet
+33414:Geostationary
+37393:Geostationary
+37392:Intelsat
+40059:Science
+40056:Engineering
+40298:Earth Resource
+40054:Engineering
+40055:Engineering
+40053:Earth Resource
+27848:Engineering
+38711:null
+27843:Science
+27844:Engineering
+40900:Amateur
+40901:Amateur
+40902:Amateur
+40903:Amateur
+40904:Amateur
+40906:Amateur
+40907:Amateur
+40908:Amateur
+39616:Geostationary
+39617:SBAS
+39612:Geostationary
+29252:Engineering
+41189:Orbcom
+41188:Orbcom
+41183:Orbcom
+41182:Orbcom
+40128:Galileo
+40129:Galileo
+41187:Orbcom
+41186:Orbcom
+41185:Orbcom
+41184:Orbcom
+40272:Geostationary
+40271:Intelsat
+40277:Geostationary
+41991:Spire
+40275:Earth Resource
+28472:SES
+41612:Planet
+39533:GPS Navigation
+41610:Planet
+41617:Planet
+41616:Planet
+41615:Planet
+41614:Planet
+41619:Amateur
+41618:Planet
+27445:Intelsat
+27441:Geostationary
+40699:null
+40878:Earth Resource
+40874:Intelsat
+40875:Geostationary
+40697:Earth Resource
+23108:Gorizont
+12897:Raduga
+37867:GLONASS Navigation
+39285:SES
+37869:GLONASS Navigation
+37868:GLONASS Navigation
+42951:Geostationary
+42711:null
+29671:GLONASS Navigation
+42950:Intelsat
+39444:Amateur
+39446:Amateur
+39441:Cube Satellites
+39440:Amateur
+29678:null
+42771:Spire
+29079:Earth Resource
+42773:Spire
+42772:Spire
+23581:GOES
+27056:null
+41841:null
+43467:null
+39199:Geostationary
+40664:Geostationary
+39191:Other Communication
+39190:Other Communication
+39197:Science
+39194:null
+15738:Molniya
+26477:Raduga
+34710:Geostationary
+19017:Gorizont
+39068:Engineering
+39265:Science
+39266:Engineering
+39260:Weather
+39269:Cube Satellites
+39268:Cube Satellites
+38953:Beidou
+32711:GPS Navigation
+19419:NNSS
+25344:Iridium
+43578:Iridium-NEXT
+43570:Iridium-NEXT
+43571:Iridium-NEXT
+43572:Iridium-NEXT
+43573:Iridium-NEXT
+43574:Iridium-NEXT
+43575:Iridium-NEXT
+43576:Iridium-NEXT
+43577:Iridium-NEXT
+42875:Planet
+10457:NNSS
+42873:Planet
+43596:null
+43597:null
+43595:null
+25522:Intelsat
+43590:Cube Satellites
+43591:Cube Satellites
+24836:Iridium
+38087:SES
+01512:Radar
+24903:Iridium
+43118:Cube Satellites
+43119:Planet
+24907:Iridium
+24905:Iridium
+43113:Other Communication
+42879:Planet
+43116:null
+43114:null
+43115:null
+25239:SES
+21196:Molniya
+42738:SBAS
+43602:Beidou
+43603:Beidou
+43600:Earth Resource
+42731:null
+42733:null
+42732:null
+42734:null
+42736:null
+20953:Gorizont
+17046:Raduga
+43648:Beidou
+39166:GPS Navigation
+41998:Spire
+41999:Cube Satellites
+41994:Spire
+41995:Spire
+41332:null
+41997:Spire
+41990:Planet
+41335:Earth Resource
+41992:Spire
+41993:Spire
+40069:Weather
+37388:null
+37389:Science
+40063:null
+40062:null
+40061:null
+37387:Earth Resource
+14781:Amateur
+41194:Geostationary
+37256:Beidou
+22490:Earth Resource
+29710:Earth Resource
+37258:Geostationary
+42026:Planet
+21533:Gorizont
+40119:Science
+40118:null
+22880:Gorizont
+40115:Earth Resource
+40111:null
+40110:null
+15144:Gorizont
+43683:Beidou
+39522:Geostationary
+41608:Planet
+41609:Planet
+41604:Earth Resource
+41605:null
+41606:Planet
+41607:null
+41601:Planet
+41602:null
+41603:Earth Resource
+38038:Earth Resource
+01361:Radar
+33595:Geostationary
+37677:Geostationary
+33591:ARGOS
+40485:Science
+40484:Science
+40483:Science
+40482:Science
+37875:null
+38107:Geostationary
+39455:null
+39452:Science
+39453:Science
+39451:Science
+26388:Geostationary
+28911:Geostationary
+28912:Geostationary
+39186:null
+39188:Other Communication
+39189:Other Communication
+28626:Intelsat
+27683:Intelsat
+24793:Iridium
+24796:Iridium
+24795:Iridium
+28628:Geostationary
+38338:Earth Resource
+39770:Amateur
+28945:Geostationary
+26407:GPS Navigation
+35635:Russian LEO
+39070:Geostationary
+39072:GlobalStar
+39073:GlobalStar
+39074:GlobalStar
+39075:GlobalStar
+39076:GlobalStar
+39077:GlobalStar
+39078:Geostationary
+39079:Geostationary
+39270:Cube Satellites
+28134:Geostationary
+32768:Geostationary
+00900:Radar
+00902:Radar
+32763:Geostationary
+25358:Geostationary
+32767:Geostationary
+31862:Intelsat
+25682:Earth Resource
+32388:Intelsat
+13012:Molniya
+25478:Orbcom
+32384:GPS Navigation
+32382:Earth Resource
+25757:Earth Resource
+40931:Amateur
+40933:Spire
+43127:null
+43126:Spire
+43125:Spire
+43124:Spire
+43123:Spire
+43122:Planet
+43121:Planet
+43120:Planet
+40935:Spire
+42432:SES
+43128:Earth Resource
+37210:Beidou
+24936:SES
+40936:Cube Satellites
+38858:Galileo
+38857:Galileo
+41859:Galileo
+41855:Cube Satellites
+41854:Cube Satellites
+41857:null
+41851:Cube Satellites
+41850:Cube Satellites
+41853:Cube Satellites
+41852:Cube Satellites
+43636:null
+42722:null
+42723:null
+42726:null
+42727:null
+42725:null
+43246:Beidou
+36395:Science
+36397:Intelsat
+43245:Beidou
+27868:null
+27869:null
+38730:Geostationary
+38733:null
+38734:null
+38736:null
+29273:Geostationary
+29272:Geostationary
+37265:Geostationary
+29270:Geostationary
+40109:null
+41457:null
+41456:Earth Resource
+41459:Amateur
+40105:GPS Navigation
+40107:Geostationary
+34264:Raduga
+27464:null
+27465:null
+27460:Geostationary
+27461:Geostationary
+40074:Cube Satellites
+40075:null
+40076:Engineering
+40070:null
+40071:null
+40072:Planet
+37602:Geostationary
+37605:SBAS
+40079:Other Communication
+37606:Geostationary
+37843:Geostationary
+37841:Amateur
+37847:Galileo
+37846:Galileo
+11057:Molniya
+37849:Weather
+28051:Earth Resource
+39460:SES
+28058:null
+29052:Science
+29051:Science
+29050:Science
+29055:SES
+29505:Science
+29506:Science
+28908:null
+28902:Geostationary
+28903:Intelsat
+15427:null
+15429:Molniya
+28638:Geostationary
+37948:Beidou
+26410:Science
+26411:Science
+32953:Amateur
+19070:NNSS
+32951:Intelsat
+39089:Science
+39088:Military
+32954:null
+32955:null
+39084:Earth Resource
+32958:Weather
+39086:ARGOS
+39241:null
+39240:null
+28129:GPS Navigation
+39249:null
+25320:Iridium
+32779:Geostationary
+23788:null
+42942:Geostationary
+32393:GLONASS Navigation
+43286:Geostationary
+32395:GLONASS Navigation
+43564:Galileo
+21821:Raduga
+32376:Earth Resource
+04507:NNSS
+32373:Raduga
+25785:SES
+41330:GLONASS Navigation
+43130:null
+43131:Cube Satellites
+43132:Science
+43137:Amateur
+43139:null
+24920:null
+24925:Iridium
+24926:Iridium
+36097:Intelsat
+36095:null
+42717:null
+42715:null
+42713:null
+42712:null
+41848:Earth Resource
+41849:Cube Satellites
+41847:Amateur
+41844:null
+41845:null
+41842:null
+41843:null
+42718:null
+24812:Intelsat
+43621:Cube Satellites
+43622:Beidou
+43623:Beidou
+42662:Geostationary
+42889:Planet
+42888:Planet
+42887:Planet
+42886:Planet
+36411:Geostationary
+42884:Planet
+42883:Planet
+42882:Planet
+42881:Spire
+42880:Planet
+21426:Molniya
+33331:Earth Resource
+42865:Planet
+42864:Planet
+42867:Planet
+42866:Planet
+42861:Planet
+42860:Planet
+42863:Planet
+42862:Planet
+14160:Gorizont
+42869:Planet
+42868:Planet
+42692:Geostationary
+33752:Military
+11841:Gorizont
+33750:Geostationary
+31306:SES
+37264:Geostationary
+40718:Earth Resource
+40715:Disaster Monitoring
+40717:Disaster Monitoring
+40716:Disaster Monitoring
+39508:Geostationary
+39509:Geostationary
+39500:Geostationary
+24315:SES
+39504:Geostationary
+27414:SES
+40001:GLONASS Navigation
+39476:Geostationary
+37855:Amateur
+27525:Geostationary
+27528:Geostationary
+20499:Raduga
+29048:Science
+29049:Science
+29045:Geostationary
+29047:Science
+28937:SBAS
+23775:Gorizont
+28935:Geostationary
+40534:GPS Navigation
+40536:Earth Resource
+27663:GPS Navigation
+43065:null
+28485:Science
+22557:Raduga
+08820:Geodetic
+39092:null
+39090:Amateur
+39091:null
+22314:Geostationary
+20263:Gorizont
+39250:null
+39251:null
+39253:Science
+25338:ARGOS
+35500:null
+40086:Orbcom
+21038:Raduga
+22041:Gorizont
+25909:GlobalStar
+17328:Molniya
+29479:Science
+43439:null
+10925:Molniya
+43437:Earth Resource
+36088:null
+37746:Geostationary
+42700:null
+19420:NNSS
+42704:null
+42706:null
+42707:null
+42708:null
+41872:Spire
+41871:Spire
+25308:GlobalStar
+41877:Earth Resource
+41875:Earth Resource
+41874:Spire
+37765:null
+43655:null
+43657:null
+17078:Molniya
+17070:NNSS
+22949:Molniya
+36400:GLONASS Navigation
+36401:GLONASS Navigation
+36402:GLONASS Navigation
+33105:Earth Resource
+21576:Orbcom
+42890:Planet
+42891:Planet
+42892:Planet
+42893:Planet
+42894:Planet
+42895:Planet
+42896:Planet
+42897:Planet
+41019:GPS Navigation
+33320:Disaster Monitoring
+33321:Disaster Monitoring
+31119:Experimental Communication
+42876:Planet
+42877:Planet
+42874:Planet
+40554:null
+42872:Planet
+34807:null
+42870:Planet
+42871:Planet
+41380:SES
+41382:Geostationary
+41384:Geostationary
+42878:Planet
+41386:null
+43614:Cube Satellites
+33749:SES
+41473:null
+41471:Geostationary
+42749:Geostationary
+41121:Geostationary
+40701:null
+38042:GlobalStar
+38043:GlobalStar
+38040:GlobalStar
+38041:GlobalStar
+38046:Earth Resource
+38044:GlobalStar
+38045:GlobalStar
+38049:Geostationary
+26931:Amateur
+24307:SBAS
+40380:Cube Satellites
+42747:Geostationary
+40384:Geostationary
+43619:null
+27400:SES
+20367:Raduga
+36287:Beidou
+40012:Amateur
+40013:Earth Resource
+40010:Earth Resource
+40011:Earth Resource
+40016:Engineering
+40017:Engineering
+40014:Engineering
+40015:Earth Resource
+40018:Engineering
+40019:Engineering
+28446:SES
+03133:NNSS
+37829:GLONASS Navigation
+41727:null
+41725:Geostationary
+41729:Geostationary
+24278:Amateur
+37826:SES
+09941:Molniya
+40345:Geostationary
+37139:GLONASS Navigation
+29520:Intelsat
+29526:Geostationary
+32018:Intelsat
+34111:Geostationary
+39035:Geostationary
+41434:Beidou
+23546:Orbcom
+23545:Orbcom
+29228:Earth Resource
+25624:GlobalStar
+27651:Science
+28358:Intelsat
+25873:GlobalStar
+25872:GlobalStar
+25875:GlobalStar
+25874:GlobalStar
+28493:Experimental Communication
+28810:null
+31307:Intelsat
+31304:Science
+32052:Russian LEO
+28924:Geostationary
+25907:GlobalStar
+35752:GPS Navigation
+35755:Geostationary
+35756:Geostationary
+32404:Geostationary
+25908:GlobalStar
+39227:Earth Resource
+08366:GOES
+25309:GlobalStar
+22981:Raduga
+25307:GlobalStar
+25306:GlobalStar
+25657:Geostationary
+25651:GlobalStar
+25650:GlobalStar
+25652:GlobalStar
+40258:Geostationary
+23439:Amateur
+33064:Orbcom
+32294:Geostationary
+39135:Amateur
+39134:Amateur
+39136:Amateur
+39133:Cube Satellites
+39132:null
+42740:Geostationary
+24873:Iridium
+42741:Geostationary
+32299:SES
+20580:Science
+38860:null
+38861:null
+25275:Iridium
+25274:Iridium
+25273:Iridium
+25272:Iridium
+43016:Cube Satellites
+41984:Planet
+25475:Orbcom
+25477:Orbcom
+25476:Orbcom
+41860:Galileo
+41861:Galileo
+41862:Galileo
+41868:null
+41989:Planet
+43011:null
+43010:Weather
+24786:GOES
+42010:Planet
+24870:Iridium
+24871:Iridium
+42069:null
+43548:null
+43642:null
+43643:null
+43640:null
+26107:Geostationary
+42061:null
+43647:Beidou
+26102:Military
+10061:GOES
+20776:Geostationary
+28470:null
+42842:Spire
+42841:Spire
+42840:Spire
+42847:Cube Satellites
+42846:Cube Satellites
+34839:Earth Resource
+42844:null
+36985:null
+41394:null
+38710:Engineering
+41469:Geostationary
+36508:Science
+41460:Amateur
+41463:Cube Satellites
+41464:null
+41465:null
+32276:GLONASS Navigation
+25276:Iridium
+40733:Geostationary
+40732:Geostationary
+40730:GPS Navigation
+27436:Russian LEO
+38077:Geodetic
+26927:Geostationary
+32275:GLONASS Navigation
+27438:Intelsat
+38867:Intelsat
+33316:Planet
+33315:Planet
+33314:Planet
+33313:Planet
+33312:Planet
+40029:Planet
+40027:Planet
+40026:Planet
+40025:Amateur
+40024:Cube Satellites
+40023:Planet
+40021:Amateur
+40020:Science
+26695:Geostationary
+40351:Other Communication
+40350:Other Communication
+40353:null
+31792:null
+40358:null
+39410:null
+37839:Amateur
+39416:Engineering
+39417:Amateur
+39418:Planet
+39419:Earth Resource
+37836:Geostationary
+41731:null
+37834:Intelsat
+28790:Intelsat
+29709:Earth Resource
+27509:Geostationary
+27508:Geostationary
+14725:Raduga
+41866:Geostationary
+28737:null
+38782:null
+40286:null
+13974:Raduga
+23553:Geostationary
+27640:Science
+39613:Geostationary
+38257:null
+38256:null
+38251:Beidou
+38250:Beidou
+25479:Orbcom
+11158:Gorizont
+41869:Geostationary
+29155:Geostationary
+38091:Beidou
+38098:Intelsat
+23331:SES
+23880:Gorizont
+40613:Geostationary
+35362:Geostationary
+41181:Orbcom
+41180:Orbcom
+39239:null
+28773:null
+39233:Geostationary
+39237:Geostationary
+39234:Geostationary
+25319:Iridium
+25649:GlobalStar
+25642:Raduga
+26352:GOES
+43099:null
+12618:Raduga
+23420:Molniya
+43259:null
+43258:Iridium-NEXT
+26590:Intelsat
+43255:Iridium-NEXT
+43254:Iridium-NEXT
+43257:Iridium-NEXT
+43256:Iridium-NEXT
+43251:Iridium-NEXT
+43250:Iridium-NEXT
+43253:Iridium-NEXT
+43252:Iridium-NEXT
+32500:Geostationary
+39122:Geostationary
+24732:Intelsat
+24876:GPS Navigation
+29486:GPS Navigation
+21016:Raduga
+19071:NNSS
+32956:null
+41613:Planet
+43641:null
+11416:null
+25590:Russian LEO
+41611:Planet
+42063:Earth Resource
+25480:Orbcom
+25481:Orbcom
+25482:Orbcom
+25485:Molniya
+25262:Iridium
+25263:Iridium
+28474:GPS Navigation
+41752:Geostationary
+25462:SES
+43677:null
+43676:null
+43672:null
+43678:null
+43075:Iridium-NEXT
+43074:Iridium-NEXT
+43077:Iridium-NEXT
+43076:Iridium-NEXT
+43071:Iridium-NEXT
+43070:Iridium-NEXT
+43073:Iridium-NEXT
+43072:Iridium-NEXT
+43079:Iridium-NEXT
+43078:Iridium-NEXT
+42070:Geostationary
+22245:Gorizont
+41925:Iridium-NEXT
+41924:Iridium-NEXT
+41926:Iridium-NEXT
+41921:Iridium-NEXT
+41920:Iridium-NEXT
+41923:Iridium-NEXT
+41922:Iridium-NEXT
+33492:Earth Resource
+33498:null
+33499:Amateur
+42858:Planet
+42859:Planet
+42854:Planet
+42855:Planet
+42856:Planet
+42857:Planet
+42850:Planet
+42851:Planet
+42852:Planet
+42853:Planet
+36519:Russian LEO
+36516:SES
+05398:Radar
+41103:Geostationary
+33278:Geostationary
+41105:Geostationary
+33274:Geostationary
+33275:SES
+37931:null
+37930:null
+27424:Earth Resource
+27426:Intelsat
+11896:Molniya
+40038:Planet
+40039:Cube Satellites
+41034:Geostationary
+40030:null
+40031:Planet
+40032:Cube Satellites
+40033:Planet
+40035:Planet
+40036:Planet
+40037:Cube Satellites
+37806:Geostationary
+31789:Engineering
+40340:null
+29494:Intelsat
+29499:ARGOS
+37809:SES
+40349:Other Communication
+41748:Intelsat
+39429:Planet
+39425:Engineering
+39423:Cube Satellites
+39422:Science
+28786:Geostationary
+39420:null
+40294:GPS Navigation
+41899:null
+42767:Earth Resource
+28542:Geostationary
+40299:Earth Resource
+27513:Intelsat
+37158:SBAS
+37150:Geostationary
+37153:null
+37152:null
+37154:null
+42763:Geostationary
+42945:null
+27632:Geostationary
+40505:Geostationary
+41996:Spire
+25854:GlobalStar
+25853:GlobalStar
+38245:Geostationary
+25851:GlobalStar
+38248:Disaster Monitoring
+25740:Geostationary
+29163:Geostationary
+29162:Geostationary
+07276:Molniya
+39202:null
+39209:null
+39208:null
+28946:Geostationary
+38339:null
+25924:Geostationary
+38337:Science
+38331:Geostationary
+38332:Geostationary
+25679:GlobalStar
+25678:GlobalStar
+25677:GlobalStar
+25676:GlobalStar
+06909:NNSS
+43080:null
+43081:null
+43082:null
+43083:null
+26580:SES
+43249:Iridium-NEXT
+37216:Earth Resource
+25847:Molniya
+43243:null
+25071:SES
+19548:Geostationary
+42845:Spire
+25077:Iridium
+25078:Iridium
+10953:GOES
+25105:Iridium
+25104:Iridium
+43666:Cube Satellites
+43669:null
+43066:null
+42049:Planet
+42048:Planet
+42043:Planet
+42042:Planet
+42041:Planet
+42040:Planet
+42047:Planet
+42046:Planet
+42045:Planet
+42044:Planet
+42919:null
+24674:Geostationary
+42915:Geostationary
+42914:null
+42917:Geostationary
+42913:null
+41932:null
+12156:Molniya
+33460:Geostationary
+33463:Geostationary
+42829:Engineering
+42828:null
+36113:GLONASS Navigation
+42820:Cube Satellites
+42823:Cube Satellites
+42822:Cube Satellites
+42825:null
+42824:Cube Satellites
+42826:null
+33061:Orbcom
+33060:Orbcom
+33063:Orbcom
+33062:Orbcom
+33065:Orbcom
+21759:Gorizont
+41240:Earth Resource
+41241:Geostationary
+36033:Geostationary
+36032:SES
+36037:Engineering
+36036:Earth Resource
+26900:Intelsat
+27057:null
+33207:Geostationary
+38652:SBAS
+41021:Geostationary
+41026:Earth Resource
+41028:SBAS
+41029:Geostationary
+08601:Molniya
+37810:Geostationary
+40377:null
+40376:Earth Resource
+37816:Geostationary
+40379:Cube Satellites
+40378:Cube Satellites
+39439:null
+08195:Molniya
+39430:Amateur
+39431:null
+30793:Geostationary
+19596:Raduga
+30794:Geostationary
+27566:Geostationary
+08513:Raduga
+07646:Geodetic
+31135:Science
+27825:Geostationary
+28371:Education
+28370:Experimental Communication
+28372:Experimental Communication
+28376:Earth Resource
+28378:Geostationary
+26766:Intelsat
+02965:NNSS
+41838:Geostationary
+39210:null
+39215:Geostationary
+39216:Geostationary
+28194:Raduga
+28190:GPS Navigation
+35946:Earth Resource
+38342:Geostationary
+35942:Geostationary
+35943:Geostationary
